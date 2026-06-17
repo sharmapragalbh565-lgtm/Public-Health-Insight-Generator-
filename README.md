@@ -1,1 +1,1 @@
-# Public-Health-Insight-Generator-
+# Public-Health-Insight-Generator
